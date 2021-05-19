@@ -1,4 +1,5 @@
 .env
+.cache
 /bin
 /lib
 /lib64
